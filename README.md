@@ -1,2 +1,3 @@
-# parprog1
-Parallel programming
+# Parallel programming
+
+**Final Course Grade**: 
