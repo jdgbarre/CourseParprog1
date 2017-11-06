@@ -1,4 +1,4 @@
-# Parallel programming
+# Parallel programming | Coursera
 
 **Final Course Grade**: 
 
@@ -11,3 +11,7 @@ Learning Outcomes. By the end of this course you will be able to:
 - express common algorithms in a functional style and solve them in parallel,
 - competently microbenchmark parallel code,
 - write programs that effectively use parallel collections to achieve performance
+
+**Meet the instructor**:
+- Prof. Viktor Kuncak. School of Computer and Communication Sciences
+- Dr. Aleksandar Prokopec, Principal Researcher. Oracle Labs
